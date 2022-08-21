@@ -1,0 +1,8 @@
+@Override
+    public String toString() {
+        return "StudentModel{" +
+                "name='" + name + '\'' +
+                ", rollNmber=" + rollNmber +
+                ", isEnroll=" + isEnroll +
+                '}';
+    }
